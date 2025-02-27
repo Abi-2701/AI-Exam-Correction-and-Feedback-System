@@ -1,0 +1,7 @@
+PyMuPDF
+aiohttp
+nltk
+sentence_transformers
+pymongo
+google-generativeai
+pyppeteer 
