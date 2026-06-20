@@ -144,7 +144,3 @@ backend/
 - Institution dashboard
 - Performance analytics
 
-
-
-## Author
-
