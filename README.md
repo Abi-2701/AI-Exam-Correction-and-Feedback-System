@@ -144,3 +144,10 @@ backend/
 - Institution dashboard
 - Performance analytics
 
+## Maintainer
+
+Abi-2701
+
+## License
+
+MIT License
